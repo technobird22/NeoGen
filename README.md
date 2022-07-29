@@ -1,5 +1,5 @@
 # NeoGen
-*A Discord bot that can interface with a variety of AI models.*
+*A tool for generating awesome AI art*
 
 Try out a fully functional version of the bot in one of the Discord servers below :)
 - **LAION Discord**: Awesome community where a lot of the text to image AIs started. Amazing community, with lots of knowledgable people. Be nice and follow the rules [https://discord.gg/9ganQST2RK](https://discord.gg/9ganQST2RK)
